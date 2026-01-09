@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Quality Assurance APIs "
+  message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "Smitha - QA Lead"
     email: "smitha@eazybank.com"
@@ -15,3 +15,4 @@ accounts:
     - (666) 555-1234
 
     - (666) 523-1345
+
